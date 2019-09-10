@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uikemianae.con-nexus.com/sitemap.xml
